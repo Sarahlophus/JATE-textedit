@@ -33,8 +33,8 @@ module.exports = () => {
         inject: true,
         name: "JATE",
         description: "just another text editor",
-        background_color: "#225ca3",
-        theme_color: "#225ca3",
+        background_color: "#e8fcf8",
+        theme_color: "#033c3d",
         start_url: "/",
         publicPath: "/",
         icons: [
